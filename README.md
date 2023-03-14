@@ -1,7 +1,7 @@
 ## **Hi there 👋 My name is Patrycja.**
 
 ### *I am a third-year student of Biomedical Engineering at Lodz University of Technology.*
-### My interests are mainly focused on programming Websites and mobile applications.
+### I love horses, dogs and plants 🌱.
 <!--
 **PatrycjaPytka/PatrycjaPytka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
